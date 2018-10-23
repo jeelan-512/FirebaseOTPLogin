@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/yusufcakmak/ExoPlayerSample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://jeelan512@bitbucket.org/dondaldosrikanth/whipy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
